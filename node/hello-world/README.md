@@ -1,4 +1,8 @@
 
+# Description 
+
+Simply create a web server, listening on port 3000 with node/express. 
+
 ## Install
 
 npm init
